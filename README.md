@@ -1,1 +1,2 @@
-# Lab1_AI
+# Lab1 AI for SE
+# Author: Daniel Acevedo
