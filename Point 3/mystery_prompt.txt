@@ -1,0 +1,11 @@
+Mystery Prompt:
+
+Write a limerick that includes a programmer, a bug, and a sigh of relief.
+
+
+Response:
+A programmer, named Fred, quite keen,
+Found a bug in his code, quite obscene.
+He fixed it with grace,
+And with a big smile on his face,
+Let out a sigh, "Finally, it's clean!" 

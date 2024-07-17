@@ -1,0 +1,15 @@
+Few-shot Prompt:
+
+In the following examples, identify the emotion:
+
+* She slammed the door and stormed out. (Angry)
+* He jumped for joy. (Happy)
+
+What emotion is expressed in the following sentence:
+The news left him feeling numb.
+
+
+Response:
+The emotion expressed in the sentence "The news left him feeling numb" is **shock or disbelief**. 
+
+"Numb" suggests a feeling of detachment,  a lack of emotion or sensation, often associated with a sudden, unexpected, or overwhelming event. 
