@@ -12,15 +12,12 @@ def send_prompt(prompt_type, prompt_text, filename):
     response = model.generate_content(prompt_text)
     print(f"\nResponse:\n{response.text}")
 
-    # Create a directory if it doesn't exist
     results_folder = "results"
     if not os.path.exists(results_folder):
         os.makedirs(results_folder)
 
-    # Construct the full path for the file
     full_path = os.path.join(results_folder, filename)
 
-    # Save the results
     with open(full_path, "w") as f:
         f.write(f"{prompt_type} Prompt:\n{prompt_text}\n\nResponse:\n{response.text}")
 

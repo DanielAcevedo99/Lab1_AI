@@ -7,7 +7,6 @@ reversed_string = reverse_string(string)
 
 print("Reversed string:", reversed_string)
 
-#Save the result as .txt file
 with open("results_Go.txt", "w") as f:
     f.write(f"Reversed string: {reversed_string}")
 

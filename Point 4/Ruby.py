@@ -7,7 +7,6 @@ def menu():
     menu_string += "4. Quit\n"
     return menu_string
 
-#Main program starts
 os.system("cls" if os.name == "nt" else "clear")
 choice = 0
 

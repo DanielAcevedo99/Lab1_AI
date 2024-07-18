@@ -6,6 +6,5 @@ def generate_uuid():
 
 print(generate_uuid())
 
-#Save the result as .txt file
 with open("results_JavaScript.txt", "w") as f:
     f.write(f"UUID: {generate_uuid()}")
